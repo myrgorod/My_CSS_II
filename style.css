@@ -1,0 +1,25 @@
+.col bg-warning{
+    border: 2px solid warning;
+  border-radius: 8px;
+  padding: 5px;
+}
+.col-6{
+    border: 2px solid info;
+  border-radius: 8px;
+  padding: 5px;
+}
+.col{
+    border: 2px solid white;
+  border-radius: 8px;
+  padding: 5px;
+}
+.col bg-danger{
+    border: 2px solid danger;
+  border-radius: 8px;
+  padding: 5px;
+}
+.col bg-success{
+    border: 2px solid success;
+  border-radius: 8px;
+  padding: 5px;
+}
